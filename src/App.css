@@ -12,7 +12,7 @@ body {
 
 @media (max-width: 576px) {
   .custom-header {
-    font-size: 1.5rem; /* smaller font for mobile */
+    font-size: 1.5rem; 
   }
 }
 
@@ -46,7 +46,7 @@ body {
 
 
 
-/* Card with glow */
+
 .card-glow {
   background: #121212;
   border-radius: 20px;
@@ -74,13 +74,12 @@ body {
   to { transform: rotate(360deg); }
 }
 
-/* Keep content above glow */
 .card-glow > * {
   position: relative;
   z-index: 1;
 }
 
-/* Modern button */
+
 .btn-modern {
   background-color: #1f1f1f;
   color: #fff;
@@ -138,9 +137,8 @@ body {
   }
 }
 
-/* Custom placeholder style for dark background */
 .custom-placeholder::placeholder {
-  color: #cccccc;        /* Light gray */
-  opacity: 1;            /* Fully visible */
-  font-style: italic;    /* Optional: makes it look like a hint */
+  color: #cccccc;        
+  opacity: 1;           
+  font-style: italic;    
 }
