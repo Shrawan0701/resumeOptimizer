@@ -19,8 +19,6 @@ An intelligent resume analysis and improvement platform built with **React**, **
 ---
 
 ## Project URLs'
-- Project URL:- https://re-vamp-liart.vercel.app/
-- Backend URL:- https://resume-optimizer-wixu.onrender.com
 - Backend Code:- https://github.com/Shrawan0701/resume-backend
 - Proxy Code:- https://github.com/Shrawan0701/ollama-proxy
 
